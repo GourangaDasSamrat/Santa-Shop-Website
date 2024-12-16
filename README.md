@@ -8,6 +8,10 @@ Check out the live version of the website: [Santa Shop Website](https://santasho
 📹 **Demo Video**  
 Watch the video walkthrough of the project to see it in action!
 
+
+https://github.com/user-attachments/assets/51155b79-399d-4cac-a955-38e167d660d8
+
+
 ---
 
 ## 🚀 Features
